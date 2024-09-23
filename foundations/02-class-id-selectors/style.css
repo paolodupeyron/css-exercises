@@ -1,0 +1,21 @@
+
+.odd {
+  background-color: rgb(248, 82, 198);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue-text {
+  color: rgb(24, 35, 180);
+  font-size: 36px;
+}
+
+.subheading {
+  font-size: 42px;
+}
+
+#number4 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+
+}
